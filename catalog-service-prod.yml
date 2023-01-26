@@ -1,2 +1,2 @@
 polar:
-  greeting: "New greetings updated for testing hot reload of Spring Beans on flight"
+  greeting: "Production greetings!"
